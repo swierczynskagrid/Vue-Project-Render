@@ -1,35 +1,7 @@
 # capstone-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Single-page application that displays cartoon characters using the data from the given API with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## [Link to the project requirements](https://learning.griddynamics.com/#/online-course-player/ce69ce73-bfa8-4d8b-9864-a64949806476) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## [Link to project Demo](xxx).
